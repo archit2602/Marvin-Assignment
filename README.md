@@ -26,11 +26,19 @@ npm install cypress
 ## Running Tests
   ### To run all tests:
   ```
-  npm test
+  npm run test
+  ```
+or
+  ```
+  npx cypress run
   ```
   ### To run the test in Cypress UI:
   ```
-  npm open
+  npm run open
+  ```
+or
+  ```
+  npx cypress open
   ```
 
 ## Directory Structure
