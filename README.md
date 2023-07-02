@@ -49,7 +49,7 @@ Marvin-Assignment/
 ├── cypress/
 │   ├── fixtures/
 │   ├── e2e/
-│   │   ├── productCartIntegration.cy.js
+│   │   ├── productCartFlow.cy.js
 │   ├── support/
 │   ├── utilities/
 │   │   ├── selectors.js
