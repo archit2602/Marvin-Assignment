@@ -3,7 +3,7 @@ This project contains end-to-end tests for Marvin's Amazon Assignment for cart f
 
 # Getting Started
 ## Prerequisites
-- Node.js (v12 or higher)
+- Node.js (v18 or higher)
 - npm (Node Package Manager)
 
 ## Installing
@@ -11,10 +11,13 @@ Clone this repository
 ```
 git clone https://github.com/archit2602/Marvin-Assignment.git
 ```
+```
+cd path/to/project
+```
 
 ## Install dependencies
 ```
-cd path/to/project
+npm install
 ```
 ```
 npm install cypress
