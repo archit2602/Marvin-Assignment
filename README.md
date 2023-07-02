@@ -40,6 +40,7 @@ or
   ```
   npx cypress open
   ```
+You will now see the Cypress UI development tool on your screen. Select 'E2E Testing' and then choose any of the available browsers such as Chrome, Edge, or Electron. Click on 'Start E2E Testing in <browser name>' to initiate the E2E testing process in the selected browser. Once the browser window appears, click on 'productCartFlow.cy.js' to view the test flow in the UI.
 
 ## Directory Structure
 
