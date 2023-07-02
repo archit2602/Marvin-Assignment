@@ -1,0 +1,15 @@
+{
+  "name": "marvinassignment",
+  "version": "1.0.0",
+  "description": "Amazon Add to Cart assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "author": "Archit",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}
